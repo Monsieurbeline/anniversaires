@@ -1,4 +1,4 @@
-const V = 'succes-v1';   // changez ce numéro à chaque mise à jour pour forcer le rafraîchissement
+const V = 'succes-v5';   // changez ce numéro à chaque mise à jour pour forcer le rafraîchissement
 const SHELL = ['./', './index.html', './manifest.webmanifest', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
